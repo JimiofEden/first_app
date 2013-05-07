@@ -5,4 +5,4 @@ This is the first application for
 by [Michael Hartl](http://michaelhartl.com/).
 [Things are certainly getting interesting]
 =======
-by [Michael Hartl](http://michaelhartl.com/).
+by [Michael Hartl](http://michaelhartl.com/)..
